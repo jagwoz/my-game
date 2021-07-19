@@ -9,5 +9,8 @@
 ## Entities
 ### Warrior
 ![example2](./images/warrior.gif)
+### Phoenix
+![example2](./images/phoenix.gif)
+
 
 
